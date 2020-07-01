@@ -1,6 +1,6 @@
-# this notebook is mainly for Capstone project of IBM DATA SCIENCE SPECIALIZATIOn 
+#this notebook is mainly for Capstone project of IBM DATA SCIENCE SPECIALIZATIOn 
 
-### github has many intresting and unique features
+###github has many intresting and unique features
 
 
 
